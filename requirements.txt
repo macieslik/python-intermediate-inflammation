@@ -1,6 +1,7 @@
 atomicwrites==1.4.0
 attrs==21.4.0
 colorama==0.4.4
+coverage==6.3.2
 cycler==0.11.0
 fonttools==4.29.1
 importlib-metadata==4.10.1
@@ -14,6 +15,7 @@ pluggy==1.0.0
 py==1.11.0
 pyparsing==3.0.7
 pytest==7.0.0
+pytest-cov==3.0.0
 python-dateutil==2.8.2
 six==1.16.0
 tomli==2.0.1
